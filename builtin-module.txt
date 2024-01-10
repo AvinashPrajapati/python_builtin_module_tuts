@@ -1,0 +1,40 @@
+sys: System-specific parameters and functions.
+os: Operating system interfaces.
+math: Mathematical functions.
+random: Generate pseudo-random numbers.
+datetime: Basic date and time types.
+json: JSON encoding and decoding.
+re: Regular expression operations.
+collections: Container datatypes (e.g., namedtuples, defaultdict).
+itertools: Functions creating iterators for efficient looping.
+functools: Higher-order functions and operations on callable objects.
+time: Time access and conversions.
+urllib: URL handling modules (e.g., urllib.request, urllib.parse).
+socket: Low-level networking interface.
+requests: HTTP library for making requests.
+sqlite3: SQLite database interface.
+pickle: Python object serialization.
+gzip: Support for gzip files.
+hashlib: Secure hash and message digest algorithms.
+subprocess: Spawn new processes, connect to their input/output/error pipes.
+argparse: Command-line argument parsing.
+csv: CSV file reading and writing.
+xml.etree.ElementTree: XML processing.
+html.parser: HTML parsing.
+collections: Additional collection data structures (Counter, OrderedDict).
+enum: Enumeration types.
+platform: Access to underlying platform’s identifying data.
+io: Core tools for working with streams (input/output).
+logging: Flexible event logging system.
+email: Sending and receiving email messages.
+unittest: Unit testing framework.
+concurrent.futures: Asynchronous execution.
+asyncio: Asynchronous I/O, coroutines, and tasks.
+socketserver: A framework for creating network servers.
+tkinter: Tkinter GUI toolkit.
+ssl: SSL/TLS wrapper for socket objects.
+zipfile: Work with ZIP archives.
+pathlib: Object-oriented filesystem paths.
+platform: Access to underlying platform's data.
+tempfile: Generate temporary files and directories.
+fractions: Rational numbers.
