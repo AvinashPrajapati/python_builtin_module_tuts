@@ -2,19 +2,23 @@
 
 sys: System-specific parameters and functions.
 os: Operating system interfaces.
-string
-re
+## string
+string: string module  (str - object, string - module )
+re:  regex module
 ## Date and Time:
 datetime: Basic date and time types.
+timezone: ---
 time: Time access and conversions.
 ## Data Serialization and Formats:
 json: JSON encoding and decoding.
+------------------
 csv: CSV file reading and writing.
 xml.etree.ElementTree: XML processing.
 html.parser: HTML parsing.
 Text Processing and Patterns:
-re: Regular expression operations.
+re: Regular exp-ression operations.
 # Collections and Iterators:
+--------------
 collections: Container datatypes (e.g., namedtuples, defaultdict).
 itertools: Functions creating iterators for efficient looping.
 enum: Enumeration types.
@@ -62,6 +66,7 @@ tempfile: Generate temporary files and directories.
 ## Advanced Mathematics:
 fractions: Rational numbers.
 math: Mathematical functions.
+-----------------------  random
 random: Generate pseudo-random numbers.
 ## Custom Module(User Defined Module):
 __init.py
